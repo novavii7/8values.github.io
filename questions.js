@@ -99,7 +99,7 @@ questions = [
         }
     },
     {
-        "question": "The United Nations should be abolished.",
+        "question": "I like to recieve pleasure from my partner or for them to be physically below me.",
         "effect": {
             "econ": 0,
             "dipl": -10,
@@ -108,7 +108,7 @@ questions = [
         }
     },
     {
-        "question": "Military action by our nation is often necessary to protect it.",
+        "question": "I would be more interested in recieving oral sex than providing it.",
         "effect": {
             "econ": 0,
             "dipl": -10,
@@ -117,7 +117,7 @@ questions = [
         }
     },
     {
-        "question": "I support regional unions, such as the European Union.",
+        "question": "I like to please my partner or to be physically below them.",
         "effect": {
             "econ": -5,
             "dipl": 10,
@@ -126,7 +126,7 @@ questions = [
         }
     },
     {
-        "question": "It is important to maintain our national sovereignty.",
+        "question": "I am not interested in being spatially dominant over my partner.",
         "effect": {
             "econ": 0,
             "dipl": -10,
@@ -135,7 +135,7 @@ questions = [
         }
     },
     {
-        "question": "A united world government would be beneficial to mankind.",
+        "question": "I am not at all interested in bottoming for my partner.",
         "effect": {
             "econ": 0,
             "dipl": 10,
@@ -144,7 +144,7 @@ questions = [
         }
     },
     {
-        "question": "It is more important to retain peaceful relations than to further our strength.",
+        "question": "I like being physically above or ontop of my partner.",
         "effect": {
             "econ": 0,
             "dipl": 10,
