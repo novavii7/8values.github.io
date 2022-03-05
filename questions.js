@@ -1,15 +1,15 @@
 questions = [
     {
-        "question": "Oppression by corporations is more of a concern than oppression by governments.",
+        "question": "I enjoy being dominant over and controlling my partner during sex.",
         "effect": {
             "econ": 10,
             "dipl": 0,
-            "govt": -5,
+            "govt": 0,
             "scty": 0
         }
     },
     {
-        "question": "It is necessary for the government to intervene in the economy to protect consumers.",
+        "question": "I like degrading or punishing my partner.",
         "effect": {
             "econ": 10,
             "dipl": 0,
