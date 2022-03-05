@@ -1,6 +1,6 @@
 questions = [
     {
-        "question": "I enjoy being dominant over and controlling my partner during sex.",
+        "question": "I enjoy being submissive and having my partner control me during sex.",
         "effect": {
             "econ": 10,
             "dipl": 0,
@@ -9,7 +9,7 @@ questions = [
         }
     },
     {
-        "question": "I like degrading or punishing my partner.",
+        "question": "I like being degraded or punished by my partner.",
         "effect": {
             "econ": 10,
             "dipl": 0,
@@ -18,7 +18,7 @@ questions = [
         }
     },
     {
-        "question": "The freer the markets, the freer the people.",
+        "question": "I like to control and dominate my partner.",
         "effect": {
             "econ": -10,
             "dipl": 0,
@@ -27,7 +27,7 @@ questions = [
         }
     },
     {
-        "question": "It is better to maintain a balanced budget than to ensure welfare for all citizens.",
+        "question": "I generally like to lead during sex.",
         "effect": {
             "econ": -10,
             "dipl": 0,
@@ -36,7 +36,7 @@ questions = [
         }
     },
     {
-        "question": "Publicly-funded research is more beneficial to the people than leaving it to the market.",
+        "question": "Being 'used' by my partner turns me on.",
         "effect": {
             "econ": 10,
             "dipl": 0,
@@ -45,7 +45,7 @@ questions = [
         }
     },
     {
-        "question": "Tariffs on international trade are important to encourage local production.",
+        "question": "I like to give pleasure or be servile to my partner.",
         "effect": {
             "econ": 5,
             "dipl": 0,
@@ -54,7 +54,7 @@ questions = [
         }
     },
     {
-        "question": "From each according to his ability, to each according to his needs.",
+        "question": "I like when my partner is dominant over me and leads.",
         "effect": {
             "econ": 10,
             "dipl": 0,
@@ -63,7 +63,7 @@ questions = [
         }
     },
     {
-        "question": "It would be best if social programs were abolished in favor of private charity.",
+        "question": "I like when my partner is submissive and lets me lead.",
         "effect": {
             "econ": -10,
             "dipl": 0,
@@ -72,48 +72,21 @@ questions = [
         }
     },
     {
-        "question": "Taxes should be increased on the rich to provide for the poor.",
+        "question": "I like it when my partner controls my orgasm.",
         "effect": {
             "econ": 10,
             "dipl": 0,
             "govt": 0,
-            "scty": 0
+            "scty": 10
         }
     },
     {
-        "question": "Inheritance is a legitimate form of wealth.",
+        "question": "I don't like being submissive to my partner.",
         "effect": {
             "econ": -10,
             "dipl": 0,
             "govt": 0,
             "scty": -5
-        }
-    },
-    {
-        "question": "Basic utilities like roads and electricity should be publicly owned.",
-        "effect": {
-            "econ": 10,
-            "dipl": 0,
-            "govt": 0,
-            "scty": 0
-        }
-    },
-    {
-        "question": "Government intervention is a threat to the economy.",
-        "effect": {
-            "econ": -10,
-            "dipl": 0,
-            "govt": 0,
-            "scty": 0
-        }
-    },
-    {
-        "question": "Those with a greater ability to pay should receive better healthcare.",
-        "effect": {
-            "econ": -10,
-            "dipl": 0,
-            "govt": 0,
-            "scty": 0
         }
     },
     {
@@ -123,15 +96,6 @@ questions = [
             "dipl": 0,
             "govt": 0,
             "scty": 5
-        }
-    },
-    {
-        "question": "The means of production should belong to the workers who use them.",
-        "effect": {
-            "econ": 10,
-            "dipl": 0,
-            "govt": 0,
-            "scty": 0
         }
     },
     {
